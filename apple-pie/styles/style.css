@@ -1,0 +1,75 @@
+header {
+  background-image: url(../images/apple-pie.jpg);
+  height: 1200px;
+  width: 1920px;
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 120px;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding-top: 500px;
+}
+
+.lista {
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 31px;
+  font-weight: 350;
+  margin-left: 260px;
+}
+.ultimaLista {
+  padding-top: 0%;
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 31px;
+  font-weight: 350;
+  margin-left: 260px;
+  margin-right: auto;
+}
+p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 350;
+  font-size: 40px;
+  padding-top: 0px;
+  padding-left: 250px;
+  padding-right: 250px;
+}
+
+.infoReceita {
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 50px;
+}
+
+.infoPreparo {
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-bottom: 50px;
+}
+
+.tituloLista {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 50px;
+  padding-top: 50px;
+  padding-left: 250px;
+}
+
+.linhaPreta {
+  width: 1200px;
+  padding-left: 210px;
+}
